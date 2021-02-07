@@ -6,4 +6,4 @@
 ### About me
 I'm a Backend, Frontend and Mobile developer at [@accenture](https://www.accenture.com/br-pt), I like a lot to study and learn about new technologies/languages as now I know how to build some systems with this languages/frameworks: Javascript/Typescript, Java, C, C#, GO, Dart, Flutter, React, Angular, React Native and Android. Feel free to contact me to talk a little.
 
-- [Website](https://vegasdevelopments.com)
+- [Website](https://vegasdevelopments.com) 💻 - Working on it.
