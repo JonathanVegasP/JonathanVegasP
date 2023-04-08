@@ -4,6 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-vegas-peixoto-5064a216a/)](https://www.linkedin.com/in/jonathan-vegas-peixoto-5064a216a/)
 
 ### About me
-I'm a Backend, Frontend and Mobile developer at [@MJV technology & innovation](https://www.mjvinnovation.com/pt-br), I like a lot to study and learn about new technologies/languages as now I know how to build some systems with this languages/frameworks: Javascript/Typescript, Java, C, C#, GO, Dart, Flutter, React, Angular, React Native and Android. Feel free to contact me to talk a little.
+I'm a Fullstack and Mobile developer at [Deal Technologies](https://www.deal.com.br/)), I love to study and learn about new technologies and languages. Feel free to contact me.
 
 - [Website](https://vegasdevelopments.com) 💻 - Working on it.
